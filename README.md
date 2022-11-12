@@ -8,9 +8,9 @@ There is an app called Tagmo that looks good. It appears to be free
 
 ## Tags: 
 You can buy all kinds of little stickers, plastic tabs and cards that will work, just make sure it says NTAG215 where your buying it from. I would suggest some of these off of amazon: 
- For Cards: https://a.co/d/3JtyHqp
- For Stickers: https://a.co/d/1Bt9gjC
- For Tabs: https://a.co/d/cTA656A
+- For Cards: https://a.co/d/3JtyHqp
+- For Stickers: https://a.co/d/1Bt9gjC
+- For Tabs: https://a.co/d/cTA656A
  
 ## Writing Amiibo Bins: 
 - Download the bin files from here and unzip the folder
