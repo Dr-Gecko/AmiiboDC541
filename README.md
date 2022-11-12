@@ -17,3 +17,4 @@ You can buy all kinds of little stickers, plastic tabs and cards that will work,
 - Go to your app of choice and follow its instructions on loading an amiibo file and secret key file (also in the amiibo zip file, its titled 'locked-secret')
 - Write the the amiibo file to the tag and your all set!
 - Keep In Mind you can only write to it once! 
+###### Dr Gecko 2022
